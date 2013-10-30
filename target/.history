@@ -1,0 +1,23 @@
+compile
+exit
+compile
+run
+exit
+eclipse
+eclipse with-source=true
+compile
+ls
+run
+compile
+run
+compile
+run
+compile:run
+compile
+run
+exit
+compile
+run
+compile
+run
+exit 
