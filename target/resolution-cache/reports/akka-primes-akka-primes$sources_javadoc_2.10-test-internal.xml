@@ -7,21 +7,21 @@
 		revision="0.1"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom"
-		date="20131030152142"/>
+		date="20131104193932"/>
 	<dependencies>
 		<module organisation="com.typesafe.akka" name="akka-actor_2.10">
 			<revision name="2.1.4" status="release" pubdate="20130514143804" resolver="public" artresolver="public" homepage="http://akka.io" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="1">
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
-				<metadata-artifact status="no" details="" size="2641" time="0" location="/home/administrator/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/ivy-2.1.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.1.4/akka-actor_2.10-2.1.4.pom"/>
+				<metadata-artifact status="no" details="" size="2641" time="0" location="/home/ms/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/ivy-2.1.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.1.4/akka-actor_2.10-2.1.4.pom"/>
 				<caller organisation="akka-primes" name="akka-primes$sources_javadoc_2.10" conf="test-internal, test, optional, compile, provided, runtime" rev="2.1.4" rev-constraint-default="2.1.4" rev-constraint-dynamic="2.1.4" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="akka-actor_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="242575" time="0" location="/home/administrator/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.1.4-sources.jar">
+					<artifact name="akka-actor_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="242575" time="0" location="/home/ms/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.1.4-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.1.4/akka-actor_2.10-2.1.4-sources.jar"/>
 					</artifact>
-					<artifact name="akka-actor_2.10" type="jar" ext="jar" status="no" details="" size="1884983" time="0" location="/home/administrator/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.1.4.jar">
+					<artifact name="akka-actor_2.10" type="jar" ext="jar" status="no" details="" size="1884983" time="0" location="/home/ms/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.1.4.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.1.4/akka-actor_2.10-2.1.4.jar"/>
 					</artifact>
-					<artifact name="akka-actor_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1584349" time="0" location="/home/administrator/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/docs/akka-actor_2.10-2.1.4-javadoc.jar">
+					<artifact name="akka-actor_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1584349" time="0" location="/home/ms/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/docs/akka-actor_2.10-2.1.4-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.1.4/akka-actor_2.10-2.1.4-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -30,16 +30,16 @@
 		<module organisation="com.typesafe" name="config">
 			<revision name="1.0.0" status="release" pubdate="20121015150115" resolver="public" artresolver="public" homepage="https://github.com/typesafehub/config" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="2">
 				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="no" details="" size="2725" time="0" location="/home/administrator/.ivy2/cache/com.typesafe/config/ivy-1.0.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/config/1.0.0/config-1.0.0.pom"/>
+				<metadata-artifact status="no" details="" size="2725" time="0" location="/home/ms/.ivy2/cache/com.typesafe/config/ivy-1.0.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/config/1.0.0/config-1.0.0.pom"/>
 				<caller organisation="akka-primes" name="akka-primes$sources_javadoc_2.10" conf="test-internal, test, optional, compile, provided, runtime" rev="1.0.0" rev-constraint-default="1.0.0" rev-constraint-dynamic="1.0.0" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="config" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="124199" time="0" location="/home/administrator/.ivy2/cache/com.typesafe/config/srcs/config-1.0.0-sources.jar">
+					<artifact name="config" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="124199" time="0" location="/home/ms/.ivy2/cache/com.typesafe/config/srcs/config-1.0.0-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/config/1.0.0/config-1.0.0-sources.jar"/>
 					</artifact>
-					<artifact name="config" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="149295" time="0" location="/home/administrator/.ivy2/cache/com.typesafe/config/docs/config-1.0.0-javadoc.jar">
+					<artifact name="config" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="149295" time="0" location="/home/ms/.ivy2/cache/com.typesafe/config/docs/config-1.0.0-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/config/1.0.0/config-1.0.0-javadoc.jar"/>
 					</artifact>
-					<artifact name="config" type="jar" ext="jar" status="no" details="" size="185676" time="0" location="/home/administrator/.ivy2/cache/com.typesafe/config/jars/config-1.0.0.jar">
+					<artifact name="config" type="jar" ext="jar" status="no" details="" size="185676" time="0" location="/home/ms/.ivy2/cache/com.typesafe/config/jars/config-1.0.0.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/config/1.0.0/config-1.0.0.jar"/>
 					</artifact>
 				</artifacts>
@@ -48,13 +48,13 @@
 		<module organisation="org.scala-lang" name="scala-library">
 			<revision name="2.10.2" status="release" pubdate="20130606200543" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="0">
 				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html          "/>
-				<metadata-artifact status="no" details="" size="2487" time="0" location="/home/administrator/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.pom"/>
+				<metadata-artifact status="no" details="" size="2487" time="0" location="/home/ms/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.pom"/>
 				<caller organisation="akka-primes" name="akka-primes$sources_javadoc_2.10" conf="test-internal, test, optional, compile, provided, runtime" rev="2.10.2" rev-constraint-default="2.10.2" rev-constraint-dynamic="2.10.2" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1058962" time="0" location="/home/administrator/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.2-sources.jar">
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1058962" time="0" location="/home/ms/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.2-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2-sources.jar"/>
 					</artifact>
-					<artifact name="scala-library" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="33909258" time="0" location="/home/administrator/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.10.2-javadoc.jar">
+					<artifact name="scala-library" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="33909258" time="0" location="/home/ms/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.10.2-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2-javadoc.jar"/>
 					</artifact>
 				</artifacts>

@@ -1,17 +1,17 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/administrator/Programy/akka_primes/project/}default-dc2feb...[0m
-[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#default-dc2feb;0.1-SNAPSHOT[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/ms/Programy/scala/akka_prime/project/}default-e69d88...[0m
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#default-e69d88;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
 [0m[[0mdebug[0m] [0m	refresh = false[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.eed3si9n#sbt-assembly;0.9.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.eed3si9n#sbt-assembly;0.9.2 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.eed3si9n#sbt-assembly;0.9.2[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: com.eed3si9n#sbt-assembly;0.9.2[0m
 [0m[[0mdebug[0m] [0m	found com.eed3si9n#sbt-assembly;0.9.2 in sbt-plugin-releases[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0[0m
@@ -36,16 +36,16 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.9.2[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.scala-lang#scala-library;2.9.2[0m
-[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.2 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0->com.typesafe.sbteclipse#sbteclipse-core;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->runtime][0m
@@ -56,11 +56,11 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [test][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0->com.typesafe.sbteclipse#sbteclipse-core;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->runtime][0m
@@ -71,8 +71,8 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.3 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.3 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-sbt#sbt;0.12.3 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-sbt#sbt;0.12.3 {provided=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-sbt#sbt;0.12.3[0m
@@ -145,7 +145,7 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.9.2 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.9.2[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.scala-lang#scala-compiler;2.9.2[0m
-[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.9.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.9.2 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#classpath;0.12.3->org.scala-lang#scala-compiler;2.9.2 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#classpath;0.12.3->org.scala-lang#scala-compiler;2.9.2 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.2->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
@@ -180,7 +180,7 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: jline#jline;1.0 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: jline#jline;1.0[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: jline#jline;1.0[0m
-[0m[[0mdebug[0m] [0m	found jline#jline;1.0 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found jline#jline;1.0 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#completion;0.12.3->jline#jline;1.0 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#completion;0.12.3->jline#jline;1.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#completion;0.12.3->jline#jline;1.0 [compile->master][0m
@@ -268,7 +268,7 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-tools.sbinary#sbinary_2.9.0;0.4.0[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.scala-tools.sbinary#sbinary_2.9.0;0.4.0[0m
-[0m[[0mdebug[0m] [0m	found org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#persist;0.12.3->org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#persist;0.12.3->org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#persist;0.12.3->org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 [compile->master][0m
@@ -315,7 +315,7 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.ivy#ivy;2.3.0-rc1 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.ivy#ivy;2.3.0-rc1[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.apache.ivy#ivy;2.3.0-rc1[0m
-[0m[[0mdebug[0m] [0m	found org.apache.ivy#ivy;2.3.0-rc1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found org.apache.ivy#ivy;2.3.0-rc1 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->org.apache.ivy#ivy;2.3.0-rc1 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->org.apache.ivy#ivy;2.3.0-rc1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->org.apache.ivy#ivy;2.3.0-rc1 [compile->master][0m
@@ -324,7 +324,7 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.jcraft#jsch;0.1.46 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.jcraft#jsch;0.1.46[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: com.jcraft#jsch;0.1.46[0m
-[0m[[0mdebug[0m] [0m	found com.jcraft#jsch;0.1.46 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found com.jcraft#jsch;0.1.46 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->com.jcraft#jsch;0.1.46 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->com.jcraft#jsch;0.1.46 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->com.jcraft#jsch;0.1.46 [compile->master][0m
@@ -333,7 +333,7 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: commons-httpclient#commons-httpclient;3.1 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: commons-httpclient#commons-httpclient;3.1[0m
-[0m[[0mdebug[0m] [0m	found commons-httpclient#commons-httpclient;3.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found commons-httpclient#commons-httpclient;3.1 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->commons-httpclient#commons-httpclient;3.1 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#ivy;0.12.3->commons-httpclient#commons-httpclient;3.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies commons-httpclient#commons-httpclient;3.1->commons-logging#commons-logging;1.0.4 [compile->master(*)][0m
@@ -341,14 +341,14 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: commons-logging#commons-logging;1.0.4 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: commons-logging#commons-logging;1.0.4[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: commons-logging#commons-logging;1.0.4[0m
-[0m[[0mdebug[0m] [0m	found commons-logging#commons-logging;1.0.4 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found commons-logging#commons-logging;1.0.4 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies commons-httpclient#commons-httpclient;3.1->commons-logging#commons-logging;1.0.4 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies commons-httpclient#commons-httpclient;3.1->commons-codec#commons-codec;1.2 [compile->master(*)][0m
 [0m[[0minfo[0m] [0mResolving commons-codec#commons-codec;1.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: commons-codec#commons-codec;1.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: commons-codec#commons-codec;1.2[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: commons-codec#commons-codec;1.2[0m
-[0m[[0mdebug[0m] [0m	found commons-codec#commons-codec;1.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found commons-codec#commons-codec;1.2 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies commons-httpclient#commons-httpclient;3.1->commons-codec#commons-codec;1.2 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies commons-httpclient#commons-httpclient;3.1->commons-logging#commons-logging;1.0.4 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies commons-httpclient#commons-httpclient;3.1->commons-logging#commons-logging;1.0.4 [runtime->compile][0m
@@ -458,7 +458,7 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-tools.testing#test-interface;0.5 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-tools.testing#test-interface;0.5[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.scala-tools.testing#test-interface;0.5[0m
-[0m[[0mdebug[0m] [0m	found org.scala-tools.testing#test-interface;0.5 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found org.scala-tools.testing#test-interface;0.5 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#test-agent;0.12.3->org.scala-tools.testing#test-interface;0.5 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#test-agent;0.12.3->org.scala-tools.testing#test-interface;0.5 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#test-agent;0.12.3->org.scala-tools.testing#test-interface;0.5 [compile->master][0m
@@ -589,17 +589,17 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [optional][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [compile-internal][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [compile-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0->com.typesafe.sbteclipse#sbteclipse-core;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->runtime][0m
@@ -609,9 +609,9 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.3 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.3 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-sbt#main;0.12.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#main;0.12.3->org.scala-sbt#actions;0.12.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#actions;0.12.3->org.scala-sbt#classpath;0.12.3 [compile->default(compile)][0m
@@ -923,16 +923,16 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [runtime-internal][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [runtime-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0->com.typesafe.sbteclipse#sbteclipse-core;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->runtime][0m
@@ -942,14 +942,14 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [optional][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [test-internal][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [test][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [test-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.eed3si9n#sbt-assembly;0.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0->com.typesafe.sbteclipse#sbteclipse-core;2.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->runtime][0m
@@ -959,9 +959,9 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.9.2;6.0.3->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-core;2.0.0->org.scalaz#scalaz-core_2.9.2;6.0.3 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.3 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.3 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-sbt#main;0.12.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#main;0.12.3->org.scala-sbt#actions;0.12.3 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#actions;0.12.3->org.scala-sbt#classpath;0.12.3 [compile->default(compile)][0m
@@ -1273,19 +1273,19 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.3->org.scala-lang#scala-library;2.9.2 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-dc2feb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-e69d88;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [plugin][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [plugin][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [sources][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [sources][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [docs][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [docs][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-dc2feb;0.1-SNAPSHOT [pom][0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/default/default-dc2feb/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-e69d88;0.1-SNAPSHOT [pom][0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/default/default-e69d88/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.eed3si9n#sbt-assembly;0.9.2!sbt-assembly.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.sbteclipse#sbteclipse-plugin;2.0.0!sbteclipse-plugin.jar[0m
@@ -1332,18 +1332,18 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#cache;0.12.3!cache.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#test-agent;0.12.3!test-agent.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 7522ms :: artifacts dl 323ms[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT compile produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT runtime produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT test produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT provided produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT optional produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT compile-internal produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT runtime-internal produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT test-internal produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT plugin produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT sources produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT docs produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#default-dc2feb;0.1-SNAPSHOT pom produced in /home/administrator/Programy/akka_primes/project/target/resolution-cache/reports/default-default-dc2feb-pom.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (7522ms resolve - 323ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2545ms :: artifacts dl 73ms[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT compile produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT runtime produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT test produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT provided produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT optional produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT compile-internal produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT runtime-internal produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT test-internal produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT plugin produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT sources produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT docs produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-e69d88;0.1-SNAPSHOT pom produced in /home/ms/Programy/scala/akka_prime/project/target/resolution-cache/reports/default-default-e69d88-pom.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (2545ms resolve - 73ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

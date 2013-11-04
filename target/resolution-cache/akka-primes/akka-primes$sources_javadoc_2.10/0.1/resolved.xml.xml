@@ -4,7 +4,7 @@
 		module="akka-primes$sources_javadoc_2.10"
 		revision="0.1"
 		status="integration"
-		publication="20131030152142"
+		publication="20131104193932"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
