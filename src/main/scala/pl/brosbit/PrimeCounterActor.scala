@@ -16,5 +16,5 @@ class PrimeCounterActor extends Actor with ActorLogging {
     }
   }
   
-  def printBank = println(primeBank.bank.mkString(", "))
+  def printBank = log.info(primeBank.bank.mkString(", "))
 }
