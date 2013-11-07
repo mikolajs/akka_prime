@@ -11,15 +11,14 @@ object Boot  extends App {
     val nextActor = system.actorOf(Props[PrimeCounterActor], name = "primeActor")
     println("Begins Loop")
     var i = 2L
-    while (i < 250000L) {
+    while (i < 25000L) {
       val n = primeBank.check(i)
       if(n != 0L) nextActor ! n
       i += 1L
-      Thread.sleep(10)
+      Thread.sleep(1)
     }
     println("Ends Loop")
     nextActor ! PrintPrimes()
-   
     Thread.sleep(1000)
     println("To end 4s")
     
