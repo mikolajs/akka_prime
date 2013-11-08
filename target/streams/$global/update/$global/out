@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/administrator/Programy/akka_primes/}default-e19c74...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/ms/Programy/scala/akka_prime/}default-ab3b3c...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: akka-primes#akka-primes_2.10;0.1[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -188,22 +188,22 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for akka-primes#akka-primes_2.10;0.1 [docs][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for akka-primes#akka-primes_2.10;0.1 [pom][0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/administrator/Programy/akka_primes/target/resolution-cache/akka-primes/akka-primes_2.10/0.1/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/akka-primes/akka-primes_2.10/0.1/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.10;2.1.4!akka-actor_2.10.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#config;1.0.0!config.jar(bundle)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 660ms :: artifacts dl 46ms[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 compile produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 runtime produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 test produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 provided produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 optional produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 compile-internal produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 runtime-internal produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 test-internal produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 plugin produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 sources produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 docs produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 pom produced in /home/administrator/Programy/akka_primes/target/resolution-cache/reports/akka-primes-akka-primes_2.10-pom.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (660ms resolve - 46ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 150ms :: artifacts dl 4ms[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 compile produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 runtime produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 test produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 provided produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 optional produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 compile-internal produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 runtime-internal produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 test-internal produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 plugin produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 sources produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 docs produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-primes#akka-primes_2.10;0.1 pom produced in /home/ms/Programy/scala/akka_prime/target/resolution-cache/reports/akka-primes-akka-primes_2.10-pom.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (150ms resolve - 4ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
