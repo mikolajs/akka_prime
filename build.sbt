@@ -6,7 +6,9 @@
      
     resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
      
-    libraryDependencies +=
-    "com.typesafe.akka" %% "akka-actor" % "2.1.4"
+    libraryDependencies ++= Seq(
+    "com.typesafe.akka" %% "akka-actor" % "2.1.4",
+    "org.scalatest" %% "scalatest" % "2.0" % "test"
+    )
 
 
