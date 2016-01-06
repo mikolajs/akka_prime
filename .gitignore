@@ -5,4 +5,5 @@ target/
 *.db
 *.jar
 .cache
+/.idea
 /Primes
