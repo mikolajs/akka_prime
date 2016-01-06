@@ -1,7 +1,7 @@
 package pl.brosbit
 
 import org.scalatest._
-import pl.brosbit._
+import pl.edu.osp.PrimeBank
 
 class PrimeTest extends FlatSpec with Matchers {
 
