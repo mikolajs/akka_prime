@@ -1,9 +1,10 @@
 package pl.edu.osp
 
-import akka.actor.{Actor, ActorRef, ActorLogging, Props}
+import akka.actor.{Actor, ActorRef, Props}
+import akka.event.Logging
 
-class PrimeCounterActor extends Actor with ActorLogging with BaseSave {
-  log.info("creted PrimeCounterActor")
+class PrimeCounterActor extends Actor  with BaseSave {
+  var log = Logging(context.system, this)
   import context._
   var nextCounter:ActorRef = null
   
