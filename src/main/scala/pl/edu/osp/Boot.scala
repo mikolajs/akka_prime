@@ -9,7 +9,7 @@ object Boot  extends App with BaseSave {
     val system = ActorSystem("MySystem")
     val nextActor = system.actorOf(Props[PrimeCounterActor], name = "primeActor")
     println("Begins Loop")
-    val rangeCount = 100000L
+    val rangeCount = 1000000L
     primeBank.check(2L)
     var i = 3L
     while (i < rangeCount) {
@@ -28,6 +28,5 @@ object Boot  extends App with BaseSave {
     println("close!")
     system.terminate()
 
-    
-}
 
+}

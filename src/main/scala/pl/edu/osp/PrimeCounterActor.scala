@@ -7,11 +7,11 @@ class PrimeCounterActor extends Actor  with BaseSave {
   var log = Logging(context.system, this)
   import context._
   var nextCounter:ActorRef = null
-  
+
   def receive= {
     case numb:Long => {
-      val n = primeBank.check(numb)  
-    		  
+      val n = primeBank.check(numb)
+
       if(n != 0L) {
         if(nextCounter == null) {
           nextCounter = actorOf(Props[PrimeCounterActor], name = "PrimeCounter")
@@ -25,7 +25,5 @@ class PrimeCounterActor extends Actor  with BaseSave {
   override def postStop(): Unit = {
     saveBank
   }
-
-
 
 }
